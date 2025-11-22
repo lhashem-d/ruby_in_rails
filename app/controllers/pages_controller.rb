@@ -1,4 +1,4 @@
-class PagesController < ApplicationController  #Pages controller inherits -> Application controller -> Action Controller
+class PagesController < ApplicationController  # Pages controller inherits -> Application controller -> Action Controller
 
   def name
   end
