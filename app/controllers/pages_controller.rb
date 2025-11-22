@@ -1,6 +1,9 @@
 class PagesController < ApplicationController  #Pages controller inherits -> Application controller -> Action Controller
-  
-  def home
+
+  def name
+  end
+
+  def about
   end
 
 end
